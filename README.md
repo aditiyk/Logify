@@ -12,7 +12,7 @@ Logify is a cutting-edge, human-in-the-loop autonomous supply chain intelligence
 Instead of relying on simple, static baseline costs, Logify models the real-world business impact by combining an advanced **5-Pillar Disruption Matrix**. The platform visualizes all of this activity across a gorgeous, edge-to-edge widescreen dashboard, interactive Leaflet tracking maps, and fully auditable execution logs.
 
 <p align="center">
-<img src="./Dashboard.svg" width="80" alt="Dashboard" />
+<img src="./Dashboard.png" width="800" alt="Dashboard" />
 </p>
 ---
 
