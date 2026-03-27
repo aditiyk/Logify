@@ -1,0 +1,74 @@
+﻿npm : npm WARN EBADENGINE 
+Unsupported engine {
+At line:1 char:1
++ npm install > 
+install_log.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (n  
+  pm WARN EBADENGINE Un   
+ supported engine {:St    
+ring) [], RemoteExcep    
+tion
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+npm WARN EBADENGINE   
+package: 'cookie@1.1.1',
+npm WARN EBADENGINE   
+required: { node: '>=18' 
+},
+npm WARN EBADENGINE   
+current: { node: 
+'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE 
+Unsupported engine {
+npm WARN EBADENGINE   
+package: 
+'react-router@7.13.2',
+npm WARN EBADENGINE   
+required: { node: 
+'>=20.0.0' },
+npm WARN EBADENGINE   
+current: { node: 
+'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE 
+Unsupported engine {
+npm WARN EBADENGINE   
+package: 
+'react-router-dom@7.13.2',
+npm WARN EBADENGINE   
+required: { node: 
+'>=20.0.0' },
+npm WARN EBADENGINE   
+current: { node: 
+'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE 
+Unsupported engine {
+npm WARN EBADENGINE   
+package: '@tailwindcss/oxi
+de@4.2.2',
+npm WARN EBADENGINE   
+required: { node: '>= 20' 
+},
+npm WARN EBADENGINE   
+current: { node: 
+'v16.13.1', npm: '8.1.2' }
+npm WARN EBADENGINE }
+
+changed 29 packages, and audited 170 packages in 14s
+
+23 packages are looking for funding
+  run `npm fund` for details
+
+3 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
