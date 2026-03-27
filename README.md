@@ -14,6 +14,14 @@ Instead of relying on simple, static baseline costs, Logify models the real-worl
 <p align="center">
 <img src="./Dashboard.png" width="800" alt="Dashboard" />
 </p>
+
+<p align="center">
+<img src="./Impact.png" width="800" alt="Dashboard" />
+</p>
+
+<p align="center">
+<img src="./ET.png" width="800" alt="Dashboard" />
+</p>
 ---
 
 ## 5-Pillar Impact Matrix
