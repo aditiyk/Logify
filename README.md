@@ -9,7 +9,7 @@
 ## Overview
 Logify is a cutting-edge, human-in-the-loop autonomous supply chain intelligence platform. Built with a 3-agent orchestration architecture, it continuously monitors shipments, senses real-world disruptions (like severe weather or port congestion), and intelligently recalculates logistics routes natively in the browser. 
 
-Instead of relying on simple, static baseline costs, Logify models the real-world business impact by combining an advanced **5-Pillar Disruption Matrix**. The platform visualizes all of this activity across a gorgeous, edge-to-edge widescreen dashboard packed with strict neon-punk aesthetics (Vibrant Purple `#9929EA`, Hot Pink `#FF5FCF`, and deep `#000000` blacks), interactive Leaflet tracking maps, and fully auditable execution logs.
+Instead of relying on simple, static baseline costs, Logify models the real-world business impact by combining an advanced **5-Pillar Disruption Matrix**. The platform visualizes all of this activity across a gorgeous, edge-to-edge widescreen dashboard, interactive Leaflet tracking maps, and fully auditable execution logs.
 
 ---
 
@@ -86,4 +86,4 @@ Since everything is pre-configured, spinning up both halves of the project requi
    ```
 4. Head over to `http://localhost:5173` in your browser!
 
-Enjoy the hyper-modern logistics future.
+Enjoy the hyper-modern logistics future! :D
