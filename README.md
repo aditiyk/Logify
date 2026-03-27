@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./package.svg" width="80" alt="Logify Logo" />
+  <img src="./box.svg" width="80" alt="Logify Logo" />
   <h1 align="center">Logify</h1>
   <p align="center">
     <strong>Autonomous Supply Chain Disruption Management Platform</strong>
