@@ -2,8 +2,9 @@
   <img src="./box.svg" width="80" alt="Logify Logo" />
   <h1 align="center">Logify</h1>
   <p align="center">
-    <strong>Autonomous Supply Chain Disruption Management Platform</strong>
+    <strong>ET AI Hackathon | Domain-Specialized AI Agent (Supply Chain Focus)</strong>
   </p>
+  <p aligh="center">Autonomous Supply Chain Disruption Management Platform</p> 
 </p>
 
 ## Overview
